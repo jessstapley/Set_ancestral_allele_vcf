@@ -14,7 +14,7 @@ Sequence reads (e.g. from SRA) from another closely related species - an outgrou
 
 If you have sequence reads available from another species that is closely related to your focal species then you can map these reads to the reference genome of your focal species, call variants and determine the ancestral state for the variants.
 
-NB: The number of variants that you can determine the ancestral state for will depend on how well the outgroup maps to your reference genome and this will depend on how closely related the species are.
+NB: How genetically close your outgroup is and how well your outgroup maps to your reference will largely determine the number of sites where the ancestral allele can be verified.
 
 # Software Requirements
 SRA manipulation:
